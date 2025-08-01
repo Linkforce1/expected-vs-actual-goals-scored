@@ -1,0 +1,10 @@
+# Ignore macOS system file
+.DS_Store
+
+# Ignore R history files
+.Rhistory
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+
