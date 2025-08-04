@@ -7,20 +7,25 @@ We computed each player’s expected goals by multiplying each players average x
 
 This distribution shows the overall shot quality of all the shots taken during the 2022 World Cup. There weren’t a lot of high quality shots taken in this tournament. The slight bump at the tail of the distribution would be the penalties taken. The poor shot quality might not be the fault of the strikers/forwards themselves but rather an indication of how tough the defenses are playing and not providing a lot of opportunities for clean looks at goal. I kind of equate it to someone batting .300 in baseball and being an all-star. Which is why it’s impressive that Lionel Messi had an average xG of 0.22 through the tournament placing him in the 85th percentile. Now, how he got those opportunities is certainly interesting and a topic that we will certainly explore for another day. 
 
+https://linkforce1.github.io/expected-vs-actual-goals-scored/Distribution%20of%20Shot%20Quality.html
 <img src="docs/Distribution of Shot Quality.png" alt="Distribution of Shot Quality (xG) in 2022 World Cup" width="600"/>
 
+https://linkforce1.github.io/expected-vs-actual-goals-scored/Top%20Players%20by%20Shot%20Quality%20Opportunity.html
 <img src="docs/Top Players by xG.png" alt="Top Players by Shot Quality in 2022 World Cup" width="600"/>
 
 The scatterplot below highlights the finishing efficiency of the players in the tournament based on their shot quality. Anyone above the diagonal would be classified as someone who overperformed realtive to expecations and anyone below would be someone who underperformed. 
 
+https://linkforce1.github.io/expected-vs-actual-goals-scored/Goals%20vs%20Expected%20Goals.html
 <img src="docs/Goals vs Expected Goals.png" alt="Goals vs Expected Goals Scatterplot" width="600"/>
 
 The bar chart highlights the top 10 overperformers in terms of finishing differential in the World Cup. The finishing differential is defined as the difference between the expected and actual number of goals scored.
 
+https://linkforce1.github.io/expected-vs-actual-goals-scored/Top%20Overperformers%20in%20World%20Cup.html
 <img src="docs/Top Overperformers in 2022 World Cup.png" alt="Top Overperformers Bar Chart" width="600"/>
 
 The scatterplot below shows player's finishing ratio which indicates a level of efficiency. Anyone with a ratio above 1, indicates that they are scoring more goals than is expected of them. 
 
+https://linkforce1.github.io/expected-vs-actual-goals-scored/Finishing%20Ratio%20vs%20Expected%20Goals.html
 <img src="docs/Finishing Ratio vs Expected Goals.png" alt="Finishing Ratio vs Expected Goals" width="600"/>
 
 # Takeaway
