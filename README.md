@@ -28,6 +28,11 @@ The scatterplot below shows player's finishing ratio which indicates a level of 
 https://linkforce1.github.io/expected-vs-actual-goals-scored/Finishing%20Ratio%20vs%20Expected%20Goals.html
 <img src="docs/Finishing Ratio vs Expected Goals.png" alt="Finishing Ratio vs Expected Goals" width="600"/>
 
+The scatterplot below shows the 95% confidence interval for each player, illustrating the upper and lower bounds of what they were expected to score. Any players who went above their confidence interval is highlighted in red while players who stayed within their interval are highlighted in blue
+
+https://linkforce1.github.io/expected-vs-actual-goals-scored/Confidence%20Intervals.html
+<img src="docs/Confidence Intervals.png" alt="Confidence Intervals" width="600"/>
+
 # Takeaway
 
 It’s tempting to crown every overachiever a clinical finisher and every underachiever a flop. Context matters and the World Cup is not the biggest sample size. But when a player consistently beats their expected target across multiple tournaments, or seasons, you start to suspect this player might be the real deal. Smart movement, elite shot placement, composure under pressure — those things don’t show up in a metric like a finishing differential. The gap between expected and actual goals helps us spot special players or special circumstances which warrant further investigation. This only drums up more questions regarding players such as how involved are they in setting up high xG possessions. How often do they beat the expected target? Are they getting unlucky this tournament? While this analysis might provide some insight into key players, this is only a stepping stone to help us analyze which players have real influence is during the game.
